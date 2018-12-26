@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jae Lee	jae.lee@glidewelldental.com	@awesomejae
 
 # THANKS
 
