@@ -4,7 +4,7 @@ This is a simple website for showing how to use Git and GitHub together. Adding 
 
 ## Introduction
 
-This example is to show different parts of the Git repository and various commands using a web project.
+This example is to show different parts of the Git repository and various commands using a web project. Updating for emergency stash fix.
 
 ## Purpose
 
